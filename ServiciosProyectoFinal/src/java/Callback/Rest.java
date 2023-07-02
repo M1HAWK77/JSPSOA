@@ -22,7 +22,7 @@ import javax.ws.rs.core.Response;
  */
     
 //Correspondiente a la peticion get
-@Path("/getInfo")
+@Path("/")
 public class Rest {
     
     private UserDAO ud=new UserDAO();

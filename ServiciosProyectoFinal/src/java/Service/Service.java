@@ -13,7 +13,7 @@ import javax.ws.rs.core.Application;
  */
 
 //Path que continua
-@ApplicationPath("api")
+@ApplicationPath("/")
 public class Service extends Application{
     
     //peticiones 
